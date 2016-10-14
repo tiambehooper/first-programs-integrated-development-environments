@@ -9,7 +9,7 @@ For this first exercise we will do the following:
 * Fix some code
 * Rerun the tests
 
-## Clone a Git repository into your Projects folder
+## Instructions
 
 For many of our in-class exercises we will be working with preexisting Git repositories.
 
