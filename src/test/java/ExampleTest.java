@@ -15,7 +15,7 @@ import static org.hamcrest.collection.IsIn.isIn;
 public class ExampleTest {
 
     @Rule
-    public NotifyingWatcher notifyingWatcher = new NotifyingWatcher("http://testifier.doughughes.net/notify");
+    public NotifyingWatcher notifyingWatcher = new NotifyingWatcher("https://tiy-testifier-webapp.herokuapp.com/notify");
 
     @Rule
     public OutputWatcher outputWatcher = new OutputWatcher();
