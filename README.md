@@ -1,4 +1,4 @@
-# Exercise: IntelliJ Introduction
+# [Exercise] IntelliJ Introduction
 
 For this first exercise we will do the following:
 

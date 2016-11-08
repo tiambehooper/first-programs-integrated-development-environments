@@ -50,7 +50,6 @@ public class Example {
          *
          * Todo: Add the missing semicolon!
          */
-
         System.out.println("Hello, world!")
     }
 
@@ -76,7 +75,7 @@ public class Example {
          * the bottom of the window that contains green icons with the text
          * "ok". You should also see a message that reads "All 3 tests passed".
          *
-         * Todo: add missing curly brace
+         * Todo: add the missing curly brace
          */
         if(color == 0){
             return "red";
