@@ -70,7 +70,7 @@ public class Example {
          * If you look closely, the line containing "} else if(color == 3)" is
          * missing a curly brace.
          *
-         * Once you've fixed this final error cluck the run button again. All of
+         * Once you've fixed this final error click the run button again. All of
          * the error messages should be fixed and you should see a new dialog at
          * the bottom of the window that contains green icons with the text
          * "ok". You should also see a message that reads "All 3 tests passed".
