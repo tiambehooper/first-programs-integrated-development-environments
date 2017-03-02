@@ -50,7 +50,7 @@ public class Example {
          *
          * Todo: Add the missing semicolon!
          */
-        System.out.println("Hello, world!")
+        System.out.println("Hello, world!");
     }
 
     /**
@@ -83,7 +83,7 @@ public class Example {
             return "orange";
         } else if(color == 2){
             return "yellow";
-        } else if(color == 3)
+        } else if(color == 3){
             return "green";
         } else if(color == 4){
             return "blue";
